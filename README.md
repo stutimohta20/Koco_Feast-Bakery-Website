@@ -1,4 +1,4 @@
 # Koco_Feast-Bakery-Website
 
 DEPLOYMENT LINK: <br>
-https://deploy-preview-665--cool-front-end-templates.netlify.app/
+https://raw.githack.com/stutimohta20/Koco_Feast-Bakery-Website/main/index.html#
